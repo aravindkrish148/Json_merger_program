@@ -1,0 +1,24 @@
+{
+    "team": [
+        {
+            "name": "Aravind",
+            "role": "keeper"
+        },
+        {
+            "name": "Ashwin",
+            "role": "spinner"
+        },
+        {
+            "name": "Raina",
+            "role": "allrounder"
+        },
+        {
+            "name": "Virat",
+            "role": "batsman"
+        },
+        {
+            "name": "Bumrah",
+            "role": "pacer"
+        }
+    ]
+}
